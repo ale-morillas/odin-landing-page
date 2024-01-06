@@ -5,10 +5,10 @@
 
 .header {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   background-color: #1f2937;
-  padding: 8px 16px;
+  padding: 8px 205px;
 }
 
 .header-logo {
@@ -58,6 +58,7 @@ ul {
 .img {
   width: 450px;
   height: 215px;
+  border-radius: 8px;
 }
 
 .title {
@@ -145,11 +146,12 @@ ul {
   background-color: #e5e7eb;
 }
 
-.quote {
+.quote p {
   width: 820px;
   font-family: sans-serif;
   font-style: italic;
   font-size: 36px;
+  font-weight: lighter;
   color: #1f2937;
 }
 
