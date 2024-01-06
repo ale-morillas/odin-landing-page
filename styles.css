@@ -212,3 +212,16 @@ ul {
   background-color: #e5e7eb;
   color: #3882f6;
 }
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1f2937;
+  padding: 36px;
+}
+
+footer p {
+  font-family: sans-serif;
+  color: #e5e7eb;
+}
