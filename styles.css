@@ -31,6 +31,12 @@ ul {
   list-style: none;
 }
 
+a {
+  font-family: sans-serif;
+  color: #e5e7eb;
+  text-decoration: none;
+}
+
 .main {
   display: flex;
   flex-direction: column;
